@@ -1,0 +1,8 @@
+{
+  "label": "End Points",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn about the several endpoints of TheMealDB API."
+  }
+}
